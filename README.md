@@ -78,7 +78,7 @@ npm run dev
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes. 
+Este projeto está licenciado sob a licença MIT
 =======
 # chat_FURIA
 >>>>>>> 0408f76042709eb91d4591548effbdc97626bcd0
