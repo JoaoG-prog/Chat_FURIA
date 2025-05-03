@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # FURIA Fan Chat
 
 Um aplicativo de chat em tempo real para fãs da FURIA interagirem, discutirem partidas, jogadores e novidades do time.
