@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # FURIA Fan Chat
 
 Um aplicativo de chat em tempo real para fãs da FURIA interagirem, discutirem partidas, jogadores e novidades do time.
@@ -79,10 +78,4 @@ npm run dev
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes. 
-=======
-# chat_FURIA
->>>>>>> 0408f76042709eb91d4591548effbdc97626bcd0
-=======
-# Chat_FURIA
->>>>>>> d09e5362d4eb68944f881faa7f180f39c834fb10
+
