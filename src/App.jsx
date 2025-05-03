@@ -29,10 +29,11 @@ import io from 'socket.io-client';
 import MatchStatus from './components/MatchStatus';
 import FanChat from './components/FanChat';
 
-const socket = io('http://localhost:3001', {
+const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+const socket = io(backendUrl, {
   transports: ['websocket', 'polling'],
   cors: {
-    origin: "http://localhost:3002"
+    origin: "*"
   }
 });
 
